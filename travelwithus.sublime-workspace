@@ -11,7 +11,7 @@
 			"file": "index.travel.with.us.html",
 			"settings":
 			{
-				"buffer_size": 6846,
+				"buffer_size": 6438,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -100,7 +100,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -109,15 +109,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6846,
+						"buffer_size": 6438,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6829,
-								6829
+								5369,
+								5369
 							]
 						],
 						"settings":
@@ -127,10 +127,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2706.0,
+						"translation.y": 1914.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -146,8 +146,8 @@
 						"selection":
 						[
 							[
-								1257,
-								1257
+								2441,
+								2441
 							]
 						],
 						"settings":
@@ -157,10 +157,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2310.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
